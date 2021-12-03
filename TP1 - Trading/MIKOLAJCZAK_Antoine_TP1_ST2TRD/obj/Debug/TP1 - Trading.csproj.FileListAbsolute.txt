@@ -1,0 +1,6 @@
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\bin\Debug\TP1___Trading.exe
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\bin\Debug\TP1___Trading.pdb
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\obj\Debug\TP1 - Trading.csprojAssemblyReference.cache
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\obj\Debug\TP1 - Trading.csproj.CoreCompileInputs.cache
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\obj\Debug\TP1___Trading.exe
+C:\Users\antoi\RiderProjects\TP1 - Trading\TP1 - Trading\obj\Debug\TP1___Trading.pdb
